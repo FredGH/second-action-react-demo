@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\.github",
-    "\\.github\\workflows"
+    "\\.github\\workflows",
+    "\\public",
+    "\\src",
+    "\\src\\test"
   ],
-  "SelectedNode": "\\package-lock.json",
+  "SelectedNode": "\\.github\\workflows\\deployment.yml",
   "PreviewInSolutionExplorer": false
 }
